@@ -4,5 +4,6 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("Hello DAM1!!");
+        System.out.println("Hola Guifré i Tomàs! Soc el Roger.");
     }
 }
